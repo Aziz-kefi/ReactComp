@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+hr{
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+h2{ 
+  color: coral;
+}
+.container {
+  margin-top: 50px;
+  padding-bottom: 20px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px 0px, rgba(0, 0, 0, 0.24) 0px 1px 4px 0px;
+  
+}
